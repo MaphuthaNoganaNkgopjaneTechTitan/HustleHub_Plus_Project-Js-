@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0101f96e-4baf-4051-9b14-5c9f231d04d7",
+    "bookingId": "3bdf919f-7d37-40d5-b6ca-e523ca5f7138",
+    "clientId": "8790fd7a-8623-4602-ad18-9f7978dc3a30",
+    "freelancerId": "86ced241-699d-4ae9-b84c-90e6f1dfa0c2",
+    "gigId": "gig-001",
+    "amount": 500,
+    "status": "successful",
+    "createdAt": "2026-10-05T20:35:51.232Z"
+  },
+  {
+    "id": "ed7889b0-4851-4a14-a342-dfb48b3d81f9",
+    "bookingId": "bdd425dc-5c10-46e9-8610-29a2b7c140f8",
+    "clientId": "8790fd7a-8623-4602-ad18-9f7978dc3a30",
+    "freelancerId": "86ced241-699d-4ae9-b84c-90e6f1dfa0c2",
+    "gigId": "gig-001",
+    "amount": 500,
+    "status": "successful",
+    "createdAt": "2026-10-05T20:49:45.013Z"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gig-001",
+    "freelancerId": "86ced241-699d-4ae9-b84c-90e6f1dfa0c2",
+    "title": "Test Graphic Design Service",
+    "description": "Temporary gig for Member 2 booking testing.",
+    "price": 500,
+    "available": true
+  }
+]
